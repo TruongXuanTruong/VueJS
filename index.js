@@ -137,7 +137,7 @@ Vue.createApp({
        
         handleIncrement() {
             this.count += 1;
-            this.fisrtName = "Minh Hiếu";
+            this.fisrtName = "Xuân Trường";
         },
     },
 }).mount("#computed-and-watchers")
